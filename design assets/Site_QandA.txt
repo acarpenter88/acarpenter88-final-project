@@ -1,0 +1,13 @@
+Questions & Answers
+
+Who is this site for?
+	For anyone who wants information about my work and/or technical knowledge.
+	
+Who is my target audience?
+	Future employers, IT Peers, anyone interested in what a SysAdmin actually does. 
+	
+What is my site supposed to actually do?
+	Showcase my technical knowledge in a simple and stylish manner as well as be able to provide links to the types of technologies I specialize in.
+	
+How will I achieve the target goal of my site?
+	I will achieve this goal with a simple, clean, and interactive site that is easy to read and intuitive to navigate. 

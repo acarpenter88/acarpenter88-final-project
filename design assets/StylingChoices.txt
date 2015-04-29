@@ -1,0 +1,16 @@
+Color Choices
+- I'd like to choose colors that make you think "tech" or "server room". I took one of my favorite server room stock images and put it in a pallet generator and will start my site build around these colors. 
+
+#222233
+#444499
+#999999
+#5566dd
+#ccccbb
+
+Font Choices
+
+I will probably stick with the "Lucida Sans Unicode", "Lucida Grande", sans-serif CSS font family. I think it looks professional without looking too rigid. 
+
+Navigation Choices
+
+I would like to keep navigation to a minimum with the majority of everything on a "one-page" feel with "pop-outs" that navigate the user to the left or right of the main page that elaborate on the information presented as the main page. 
